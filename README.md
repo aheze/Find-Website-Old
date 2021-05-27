@@ -1,2 +1,3 @@
 # FindWebsite
-Official website of Find app. It's currently a terrible, text-only website... but web dev is on my list of things to learn.
+
+Legacy website of Find app. New version is at [aheze/Find-app](https://github.com/aheze/Find-app) (generated from [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page)).
